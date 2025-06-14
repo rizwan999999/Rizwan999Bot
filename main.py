@@ -5,7 +5,7 @@ from keep_alive import keep_alive
 import openai
 
 # 🔐 Token और API Key
-TELEGRAM_BOT_TOKEN = "8190615401:AAFbFK5M0JxaRghuyRTPosRiy_tKkAVBQAM"
+TELEGRAM_BOT_TOKEN = 8190615401:AAE9ejnAnWpi-0gPB1E6yUsKxrYvU9w1R6A
 OPENAI_API_KEY = "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"
 
 # OpenAI सेटअप
